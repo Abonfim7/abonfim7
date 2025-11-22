@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Andrea Bonfim</h1>
 
-<!--
-**Abonfim7/abonfim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Desenvolvedora Front-End · Especialista em Produto Digital
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](./profile-3d-contrib/profile-gitblock.svg)
+
+---
+
+## Sobre
+
+- Atuação em desenvolvimento front end com TypeScript
+- Especialista em produtos digitais
+- Graduada em Análise e Desenvolvimento de Sistemas
+- Experiência em automação de testes utilizando Selenium com a linguagem Java
+
+## Projetos em destaque
+
+- Canal de Vendas e Pós vendas de Seguros PF e PJ
+- Automação de toda jornada de Pós Vendas
+- Construção de Vendas e Pós vendas do Canal de Consórcio
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/andrearbonfim/)
+
+---
